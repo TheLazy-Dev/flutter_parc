@@ -1,6 +1,6 @@
 # flutterparc
 
-A repo to practise flutter applications. 
+A repo to practice flutter applications. 
 
 ## Getting Started
 
